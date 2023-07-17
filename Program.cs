@@ -35,4 +35,5 @@ string [] array = new string [m];
     for(int i = 0;i < array.Length; i++){
             array[i] =Console.ReadLine()!; 
     }
- 
+Console.WriteLine();
+string [] newModifiedArray = ModifyArray(array);
