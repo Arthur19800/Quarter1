@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\IT_education\quarter1\bin\Debug\net6.0\quarter1.exe
+C:\Users\User\Desktop\IT_education\quarter1\bin\Debug\net6.0\quarter1.deps.json
+C:\Users\User\Desktop\IT_education\quarter1\bin\Debug\net6.0\quarter1.runtimeconfig.json
+C:\Users\User\Desktop\IT_education\quarter1\bin\Debug\net6.0\quarter1.dll
+C:\Users\User\Desktop\IT_education\quarter1\bin\Debug\net6.0\quarter1.pdb
+C:\Users\User\Desktop\IT_education\quarter1\obj\Debug\net6.0\quarter1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IT_education\quarter1\obj\Debug\net6.0\quarter1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\IT_education\quarter1\obj\Debug\net6.0\quarter1.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\IT_education\quarter1\obj\Debug\net6.0\quarter1.AssemblyInfo.cs
+C:\Users\User\Desktop\IT_education\quarter1\obj\Debug\net6.0\quarter1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IT_education\quarter1\obj\Debug\net6.0\quarter1.dll
+C:\Users\User\Desktop\IT_education\quarter1\obj\Debug\net6.0\refint\quarter1.dll
+C:\Users\User\Desktop\IT_education\quarter1\obj\Debug\net6.0\quarter1.pdb
+C:\Users\User\Desktop\IT_education\quarter1\obj\Debug\net6.0\quarter1.genruntimeconfig.cache
+C:\Users\User\Desktop\IT_education\quarter1\obj\Debug\net6.0\ref\quarter1.dll
