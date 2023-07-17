@@ -8,3 +8,9 @@ do
     if  (m == 0) Console.WriteLine("Wrong array size");
     else Console.WriteLine("Correct array size! Input array elememts: ");
 } while (m == 0);
+
+string [] array = new string [m];
+    for(int i = 0;i < array.Length; i++){
+            array[i] =Console.ReadLine()!; 
+    }
+ 
