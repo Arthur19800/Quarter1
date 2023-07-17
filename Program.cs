@@ -24,6 +24,16 @@ string [] ModifyArray(string [] array)
     }  
       return modifiedArray;
 }
+
+void ShowArray(string[] array)
+{
+     Console.Write("[");
+     for(int i = 0;i < array.Length; i++){    
+           Console.Write($"{array[i]}\t"); 
+    }
+    Console.Write("]");
+}
+
 do
 {
     m = Convert.ToInt32(Console.ReadLine()); 
@@ -37,3 +47,4 @@ string [] array = new string [m];
     }
 Console.WriteLine();
 string [] newModifiedArray = ModifyArray(array);
+ShowArray(newModifiedArray);
